@@ -1,0 +1,22 @@
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="256" height="256" rx="48" fill="url(#bg)"/>
+  <path d="M128 38C142 62 146 80 140 94C133 110 118 118 110 134C102 150 105 171 128 196C151 171 154 150 146 134C138 118 123 110 116 94C110 80 114 62 128 38Z" fill="url(#core)"/>
+  <path d="M63 163C90 140 106 126 115 100C119 132 102 164 75 193C86 188 97 185 108 182C115 194 123 206 128 218C133 206 141 194 148 182C159 185 170 188 181 193C154 164 137 132 141 100C150 126 166 140 193 163C182 147 177 132 176 118C170 128 161 136 150 142C147 122 140 105 128 88C116 105 109 122 106 142C95 136 86 128 80 118C79 132 74 147 63 163Z" fill="url(#wings)"/>
+  <circle cx="128" cy="116" r="12" fill="#FFF1D7" fill-opacity="0.9"/>
+  <defs>
+    <linearGradient id="bg" x1="36" y1="18" x2="214" y2="244" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2A1612"/>
+      <stop offset="1" stop-color="#120B09"/>
+    </linearGradient>
+    <linearGradient id="core" x1="128" y1="38" x2="128" y2="196" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFE2AB"/>
+      <stop offset="0.4" stop-color="#FFB454"/>
+      <stop offset="1" stop-color="#FF6E3B"/>
+    </linearGradient>
+    <linearGradient id="wings" x1="128" y1="88" x2="128" y2="218" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFD987"/>
+      <stop offset="0.45" stop-color="#FF9A4A"/>
+      <stop offset="1" stop-color="#9B3829"/>
+    </linearGradient>
+  </defs>
+</svg>
